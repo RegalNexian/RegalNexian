@@ -17,7 +17,7 @@ Skills: JAVA  / JS / HTML / CSS/PYTHON
 - 🌱 I’m currently learning DSA 
 - 📫 How to reach me: p.soumyasundars@gmail.com 
 - 😄 Pronouns: HE/HIM 
-<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://user-images.githubusercontent.com/74038190/212259384-ac922d39-ba72-4cad-93bc-b78c83eff0b8.png)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RegalNexian)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/p-soumya-sundar-subudhi-4836651a5/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/KingNexus03)  
 
