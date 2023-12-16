@@ -1,4 +1,4 @@
-<img src = '[https://github.com/RegalNexian/RegalNexian/blob/main/Soumya.png](https://www.canva.com/design/DAF3JUr3iLk/xsH2rbChiJLEJTejcloIFQ/edit?utm_content=DAF3JUr3iLk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)' alt ='banner'  width='1000' height='50'>
+<img src = 'https://www.canva.com/design/DAF3JUr3iLk/xsH2rbChiJLEJTejcloIFQ/edit?utm_content=DAF3JUr3iLk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton' alt ='banner'  width='1000' height='50'>
 
 
 
