@@ -1,3 +1,9 @@
+[<img src = 'https://github.com/RegalNexian/RegalNexian/blob/main/Soumya.png' alt ='banner'  width='1000' height='50'>]
+
+
+
+
+
 ### Hi there 👋,
 
 #### My name is Soumya 
