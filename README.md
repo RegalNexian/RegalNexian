@@ -12,7 +12,7 @@
 From Logo to Java to Python 🚀 | Started programming in early school days, journeyed through C/C++, Java, Python, HTML, & CSS | Diploma in tech, revisited all languages after a break | Passionate about coding and lifelong learning 🌟 #ProgrammingJourney
 
 Skills: JAVA  / JS / HTML / CSS/PYTHON
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3oEduOXu3DBfTazzaw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/3oEduOXu3DBfTazzaw">via GIPHY</a></p>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/3oEduOXu3DBfTazzaw/giphy.gif">
 
 - 🔭 I’m currently working on a Online Examination Website 
 - 🌱 I’m currently learning DSA 
